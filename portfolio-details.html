@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Portfolio Details - Skills Bootstrap Temlate</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="favicon.png" rel="icon">
+  <link href="apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap-icons.css" rel="stylesheet">
+  <link href="glightbox.min.css" rel="stylesheet">
+  <link href="swiper-bundle.min.css" rel="stylesheet">
+  <link href="aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="main.css" rel="stylesheet">
+
+</head>
+
+<body class="portfolio-details-page" data-bs-spy="scroll" data-bs-target="#navmenu">
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header sticky-top d-flex align-items-center">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1>Explore Skills</h1>
+        <span>.</span>
+      </a>
+
+      <!-- Nav Menu -->
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="index.html#hero">Home</a></li>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#services">Services</a></li>
+          <li><a href="index.html#portfolio">Portfolio</a></li>
+          <li><a href="index.html#team">Team</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li class="dropdown has-dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dd-box-shadow">
+              <li><a href="#">Dropdown 1</a></li>
+              <li class="dropdown has-dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down"></i></a>
+                <ul class="dd-box-shadow">
+                  <li><a href="#">Deep Dropdown 1</a></li>
+                  <li><a href="#">Deep Dropdown 2</a></li>
+                  <li><a href="#">Deep Dropdown 3</a></li>
+                  <li><a href="#">Deep Dropdown 4</a></li>
+                  <li><a href="#">Deep Dropdown 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Dropdown 2</a></li>
+              <li><a href="#">Dropdown 3</a></li>
+              <li><a href="#">Dropdown 4</a></li>
+            </ul>
+          </li>
+          <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav><!-- End Nav Menu -->
+
+      <a class="btn-getstarted" href="index.html#about">Get Started</a>
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- Portfolio Details Page Title & Breadcrumbs -->
+    <div data-aos="fade" class="page-title">
+      <div class="heading">
+        <div class="container">
+          <div class="row d-flex justify-content-center text-center">
+            <div class="col-lg-8">
+              <h1>Portfolio Details</h1>
+              <p class="mb-0">Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav class="breadcrumbs">
+        <div class="container">
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li class="current">Portfolio Details</li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Page Title -->
+
+    <!-- Portfolio-details Section - Portfolio Details Page -->
+    <section id="portfolio-details" class="portfolio-details">
+
+      <div class="container" data-aos="fade-up">
+
+        <div class="portfolio-details-slider swiper">
+          <template class="swiper-config">
+            {
+            "loop": true,
+            "speed" : 600,
+            "autoplay": {
+            "delay": 5000
+            },
+            "slidesPerView": "auto",
+            "navigation": {
+            "nextEl": ".swiper-button-next",
+            "prevEl": ".swiper-button-prev"
+            }
+            }
+          </template>
+          <div class="swiper-wrapper align-items-center">
+
+            <div class="swiper-slide">
+              <img src="app-1.jpg" alt="">
+            </div>
+
+            <div class="swiper-slide">
+              <img src="product-1.jpg" alt="">
+            </div>
+
+            <div class="swiper-slide">
+              <img src="branding-1.jpg" alt="">
+            </div>
+
+            <div class="swiper-slide">
+              <img src="books-1.jpg" alt="">
+            </div>
+
+          </div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+
+        <div class="row justify-content-between gy-4 mt-4">
+
+          <div class="col-lg-8" data-aos="fade-up">
+            <div class="portfolio-description">
+              <h2>This is an example of portfolio details</h2>
+              <p>
+                Elevate your expertise with our Skills Platform—a dynamic hub offering diverse learning paths, interactive assessments, and personalized progress tracking.
+              </p>
+              <p>
+                Unlock your full potential, explore comprehensive skill sets, and chart a successful journey towards mastery. Your success story begins with our innovative and user-centric Skills Platform.
+              </p>
+
+              <div class="testimonial-item">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>The Skills Platform exceeded my expectations! The diverse range of courses and interactive assessments made learning enjoyable. The personalized progress tracking helped me stay motivated. This platform is a true gem for anyone eager to enhance their skills. Kudos to the team!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <div>
+                  <img src="testimonials-2.jpg" class="testimonial-img" alt="">
+                  <h3>Bharath Kumar</h3>
+                  <h4>Designer</h4>
+                </div>
+              </div>
+
+              <p>
+                Discovering the Skills Platform was a game-changer for me. The interactive learning experience and comprehensive paths transformed my skill set.
+              </p>
+
+              <p>
+                It's not just a platform; it's a catalyst for personal and professional growth. Highly recommended!"
+              </p>
+
+            </div>
+          </div>
+
+          <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong> Skills</li>
+                <li><strong>Client</strong> MBIF Company</li>
+                <li><strong>Project date</strong> 01 January, 2024</li>
+                <li><strong>Project URL</strong> <a href="#">www.example.com</a></li>
+                <li><a href="#" class="btn-visit align-self-start">Visit Website</a></li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- End Portfolio-details Section -->
+
+  </main>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-5 col-md-12 footer-about">
+          <a href="index.html" class="logo d-flex align-items-center">
+            <span>Explore Skill</span>
+          </a>
+          <p>Gratitude abounds for the invaluable gift of our Skills Platform. Thank you for providing a gateway to endless possibilities and empowering us to explore, learn, and grow with boundless enthusiasm.</p>
+          <div class="social-links d-flex mt-4">
+            <a href=""><i class="bi bi-twitter"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Terms of service</a></li>
+            <li><a href="#">Privacy policy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-6 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><a href="#">Dancing</a></li>
+            <li><a href="#">Singing</a></li>
+            <li><a href="#">Painting</a></li>
+            <li><a href="#">Stand-up Comedy</a></li>
+            <!-- <li><a href="#">Graphic Design</a></li> -->
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+          <h4>Contact Us</h4>
+          <p>Magic Bus Foundation</p>
+          <p>Balanagar, HYD-500037</p>
+          <p>Telangana</p>
+          <p class="mt-4"><strong>Phone:</strong> <span>+91 9175637394</span></p>
+          <p><strong>Email:</strong> <span>info@example.com</span></p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>&copy; <span>Copyright</span> <strong class="px-1">Explore Skill</strong> <span>All Rights Reserved</span></p>
+    
+  </footer><!-- End Footer -->
+
+  <!-- Scroll Top Button -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <!-- Vendor JS Files -->
+  <script src="bootstrap.bundle.min.js"></script>
+  <script src="glightbox.min.js"></script>
+  <script src="purecounter_vanilla.js"></script>
+  <script src="isotope.pkgd.min.js"></script>
+  <script src="swiper-bundle.min.js"></script>
+  <script src="aos.js"></script>
+  <script src="validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="main.js"></script>
+
+</body>
+
+</html>
