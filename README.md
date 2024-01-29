@@ -4,7 +4,7 @@
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
 <h3>Project Details:</h3>
-Project Demo URL:<h3></h3>
+Project Demo URL:
 <a href="https://portal.azure.com/#home">Project Demo URL : https://portal.azure.com/#home</a><br></br> 
 Youtube Video URL :  <br></br>
 GIT HUB  URL:
