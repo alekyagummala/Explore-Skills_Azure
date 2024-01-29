@@ -5,10 +5,10 @@
 
 <h3>Project Details:</h3>
 Project Demo URL:
-<a href="https://portal.azure.com/#home">Project Demo URL : https://portal.azure.com/#home</a><br></br> 
+<a href="https://portal.azure.com/#home"> https://portal.azure.com/#home</a><br></br> 
 Youtube Video URL :  <br></br>
 GIT HUB  URL:
-<a href="https://github.com/alekyagummala/Explore-Skills_Azure">GitHub Repository URL : https://github.com/alekyagummala/Explore-Skills_Azure</a> <br></br> 
+<a href="https://github.com/alekyagummala/Explore-Skills_Azure"> https://github.com/alekyagummala/Explore-Skills_Azure</a> <br></br> 
 Industry: LIFESTYLE(Explore the Skills) 
 
 <h3>Team & Responsibilities:</h3><br>
