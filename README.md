@@ -72,7 +72,9 @@ Azure Backup Service is a cloud-based solution provided by Microsoft Azure that 
 
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
 
-screen-------------------------
+<img src="rolebased.png"/>
+<img src="role1.png"/>
+
 
 
 
@@ -81,26 +83,37 @@ screen-------------------------
 <h3>Azure Bot Service:</h3>
 
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
+<img src="chat0.png"/>
+<img src="chat1.png"/>
+<img src="chatqa.png"/>
+<img src="chatqa1.png"/>
+<img src="staticwebchat.png"/>
+<img src="chatbot.png"/>
+<img src="chatf.png"/>
 
-screenshot ...................................................................
+
 
 <h3>Manage Identity:</h3>
 
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
 
-screenshot ...........................................................
+<img src="rolebased.png"/>
+<img src="role1.png"/>
+
 
 <h3>Azure AI Service</h3>
 
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
+<img src= "backup.png"/>
+<img src="role2.png"/>
+<img src="lang.png"/>
 
 <h3>Search Service:</h3>
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
 
-screenshot.......................................................................
+<imh src="chatbot.png"/>
 
 
-SCREENSHOTS....
 	- Static website 
 	- language service 
 	- Data protection 
@@ -115,7 +128,12 @@ SCREENSHOTS....
 "EXPLORE SKILLS, IGNITE SUCCESS" stands as a pioneering initiative, set to redefine the online learning experience. Through the seamless integration of cutting-edge technology, user-centric design, and a rich array of features, this project is committed to empowering individuals on their unique skill development journey. Our mission is clear – to establish a modern, adaptive, and efficient ecosystem that not only meets the diverse learning needs of individuals but also cultivates a vibrant community of skill enthusiasts and professionals.
 
 In the ever-evolving landscape of skill exploration, our platform aims to be the catalyst for transformation, bridging the gap between creative aspirations and tangible achievements. "EXPLORE SKILLS, IGNITE SUCCESS" is more than just a learning platform; it is a dynamic force poised to inspire and guide individuals towards unlocking their full potential. Join us on this journey, where innovation meets education, and together, we ignite success in the world of skill exploration.
-
+<img src="chatf.png"/>
+<img src="final1.png"/>
+<img src="final2.png"/>
+<img src="final3.png"/>
+<img src="final5.png"/>
+<img src="final6.png"/>
 
 
 
