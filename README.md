@@ -5,7 +5,7 @@
 
 <h3>Project Details:</h3>
 Project Demo URL:<h3></h3>
-<a href="[https://www.w3schools.co](https://portal.azure.com/#@bvnods1gmail.onmicrosoft.com/resource/subscriptions/2c14f14a-a420-46b6-8b2d-c8862f7ccbb0/resourceGroups/skillsRG/providers/Microsoft.Storage/storageAccounts/skillstorage07/overview](https://portal.azure.com/#create/hub)">Project Demo URL :https://portal.azure.com/#@bvnods1gmail.onmicrosoft.com/resource/subscriptions/2c14f14a-a420-46b6-8b2d-c8862f7ccbb0/resourceGroups/skillsRG/providers/Microsoft.Storage/storageAccounts/skillstorage07/overview </a><br></br> 
+<a href="https://portal.azure.com/#home">Project Demo URL : https://portal.azure.com/#home</a><br></br> 
 Youtube Video URL :  <br></br>
 GIT HUB  URL:
 <a href="https://github.com/alekyagummala/Explore-Skills_Azure">GitHub Repository URL : https://github.com/alekyagummala/Explore-Skills_Azure</a> <br></br> 
