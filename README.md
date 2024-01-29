@@ -4,9 +4,9 @@
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
 <h3>Project Details:</h3>
-Project Demo URL :  <a href="https://portal.azure.com/#@bvnods1gmail.onmicrosoft.com/resource/subscriptions/2c14f14a-a420-46b6-8b2d-c8862f7ccbb0/resourceGroups/skillsRG/providers/Microsoft.Storage/storageAccounts/skillstorage07/overview"></a>
+<a href="https://www.w3schools.co](https://portal.azure.com/#@bvnods1gmail.onmicrosoft.com/resource/subscriptions/2c14f14a-a420-46b6-8b2d-c8862f7ccbb0/resourceGroups/skillsRG/providers/Microsoft.Storage/storageAccounts/skillstorage07/overview">Project Demo URL : </a>
 Youtube Video URL :  
-GitHub Repository URL :<a href="https://github.com/alekyagummala/Explore-Skills_Azure"></a>  
+<a href="https://github.com/alekyagummala/Explore-Skills_Azure">GitHub Repository URL :</a>  
 Industry: LIFESTYLE(Explore the Skills) 
 
 <h3>Team & Responsibilities:</h3><br>
