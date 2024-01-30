@@ -50,7 +50,7 @@ To make the experience even better, our website will have advanced tools to eval
 
 
 <h2>AZURE CORE AZURE SERVICES:</h2>
-
+<img src=""/>
 <h3>Azure Storage Account:</h3>
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 
