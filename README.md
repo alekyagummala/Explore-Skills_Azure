@@ -41,9 +41,9 @@ Recognizing these issues, there's a need for an innovative skill development pla
 
 <h3>PROJECT DESCRIPTION:</h3>
 
-"The Explore Skills website project is all about creating a new and exciting online learning platform". The main goal is to make a space that is dynamic and focused on users, helping people improve their skills in different areas. We know that learning online can be tricky, so our website will have carefully planned learning paths, interactive skill tests, and practical learning activities.
+"The Explore Skills website project is all about creating a new and exciting online learning platform". The main goal is to make a space that is dynamic and focused on users, helping people improve their skills in different areas. We know that learning online can be tricky, so our website will have carefully planned learning paths, interactive skills tests, and practical learning activities.
 
-The website will be easy to use, with a clean design that makes learning enjoyable. Whether you're into dancing, singing, painting, or stand-up comedy, our website will be a one-stop shop for exploring and being creative. Each skill category will have lots of information to help users choose the right learning path.
+The website will be easy to use, with a clean design that makes learning enjoyable. Whether you're into dancing, singing, painting, or stand-up comedy, our website will be a one-stop shop for exploring and being creative. Each skill category will have lots of information to help users to choose the right learning path.
 
 To make the experience even better, our website will have advanced tools to evaluate skills, providing personalized feedback and insights on growth. Challenges will be adjusted to each person's skill level, making learning personalized and effective. This approach not only makes learning easier but also motivates users to reach their full potential, turning their creative dreams into real achievements in the exciting world of skill development.
 
