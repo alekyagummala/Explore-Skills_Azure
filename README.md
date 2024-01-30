@@ -7,7 +7,7 @@
 Project Demo URL:
 <a href="https://portal.azure.com/#home"> https://portal.azure.com/#home</a><br></br> 
 Youtube Video URL :  <br></br>
-GIT HUB  URL:
+GIT HUB URL:
 <a href="https://github.com/alekyagummala/Explore-Skills_Azure"> https://github.com/alekyagummala/Explore-Skills_Azure</a> <br></br> 
 Industry: LIFESTYLE(Explore the Skills) 
 
