@@ -6,7 +6,10 @@
 <h3>Project Details:</h3>
 Project Demo URL:
 <a href="https://portal.azure.com/#home"> https://portal.azure.com/#home</a><br></br> 
-Youtube Video URL :  <br></br>
+Static Website URL:
+<a href="https://skillstorage07.z13.web.core.windows.net/">https://skillstorage07.z13.web.core.windows.net/</a><br></br> 
+Youtube Video URL :
+<a href="https://www.youtube.com/watch?v=Gzh3GoutcPI">https://www.youtube.com/watch?v=Gzh3GoutcPI<a/>  <br></br>
 GIT HUB URL:
 <a href="https://github.com/alekyagummala/Explore-Skills_Azure"> https://github.com/alekyagummala/Explore-Skills_Azure</a> <br></br> 
 Industry: LIFESTYLE(Explore the Skills) 
@@ -18,18 +21,16 @@ Industry: LIFESTYLE(Explore the Skills)
 4. kurma Manoj: <br>     Documentation and content collection of the project.</br>
 
 <h3>AZURE CORE SERVICES USED:</h3>
-Azure Storage
-Azure containers
-Azure backup
-Azure ai
-Azure language
-Azure RBAC which is a role-based access service
+Azure Storage<br></br> 
+Azure containers<br></br> 
+Azure backup<br></br> 
+Azure RBAC which is a role-based access service<br></br> 
 
 <h3>AZURE AI SERVICES USED:</h3>
-Azure Bot Service
-Manage Identity
-Azure AI Service
-Search Service
+Azure Bot Service<br></br> 
+Manage Identity<br></br> 
+Azure AI Service<br></br> 
+Search Service<br></br> 
 
 <h3>PROBLEM STATEMENT:</h3>
 
