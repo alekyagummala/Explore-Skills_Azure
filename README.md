@@ -50,7 +50,7 @@ To make the experience even better, our website will have advanced tools to eval
 
 
 <h2>AZURE CORE AZURE SERVICES:</h2>
-<img src=""/>
+<img src="index_az.png"/>
 <h3>Azure Storage Account:</h3>
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 
@@ -106,9 +106,10 @@ Azure Managed Identity is a service in Microsoft Azure that enhances the securit
 <h3>Azure AI Service</h3>
 
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
-<img src= "backup.png"/>
-<img src="role1.png"/>
+
 <img src="lang.png"/>
+<img src= "botlang.png"/>
+<img src="skillsbot.png"/>
 
 <h3>Search Service:</h3>
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
